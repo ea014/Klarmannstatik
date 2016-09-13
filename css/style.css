@@ -1,8 +1,8 @@
 #header{
     position: fixed;
-    min-height: 65px;
+    min-height: 62px;
     min-width: 100%;
-    background-color: #222222;
+    background-color: #1a1a1a;
     top:0;
     left: 0;
 }
